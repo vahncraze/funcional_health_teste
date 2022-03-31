@@ -1,0 +1,34 @@
+mutation{
+  create(nome: "Functional Health 2")
+}
+
+mutation{
+  get(){
+    id,
+    numeroConta
+    nome
+    saldo
+  }
+}
+
+mutation{
+  depositar (numeroConta: "99746",valor: 300){
+    id
+    numeroConta
+   nome
+   saldo
+  }
+}
+
+mutation{
+  sacar (numeroConta: "99752",valor: 500){
+    id
+    numeroConta
+   nome
+   saldo
+  }
+}
+
+mutation {
+  saldo(numeroConta: "99746")
+}
