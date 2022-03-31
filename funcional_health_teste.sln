@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "funcional_health_teste", "funcional_health_teste\funcional_health_teste.csproj", "{33B76CCC-911E-4C89-9CBD-B418071D4E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{2F425FA4-0AA4-4287-904E-074964E87248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B76CCC-911E-4C89-9CBD-B418071D4E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B76CCC-911E-4C89-9CBD-B418071D4E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B76CCC-911E-4C89-9CBD-B418071D4E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B76CCC-911E-4C89-9CBD-B418071D4E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F425FA4-0AA4-4287-904E-074964E87248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F425FA4-0AA4-4287-904E-074964E87248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F425FA4-0AA4-4287-904E-074964E87248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F425FA4-0AA4-4287-904E-074964E87248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F0E562-D7D9-4271-95C8-46EA976A4B3D}
+	EndGlobalSection
+EndGlobal
